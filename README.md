@@ -12,9 +12,8 @@
   </em>  
 </p>
 
-<!-- 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MatheusMunizera)
--->
+
+
 <br>
 
 # Extra <img alt ="L-Cute" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/L-Cute-unscreen.gif" width="40px">
@@ -32,6 +31,8 @@
 <br>
 <br>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MatheusMunizera)
+
 <p align="center">
   
  <a href="https://github.com/MatheusMunizera">
@@ -40,14 +41,15 @@
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=MatheusMunizera&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
-   
   </a>
+
   <p align = "center">
   <a href="https://github.com/MatheusMunizera">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMunizera&theme=dark&hide_langs_below=1" />
 </a>
-    
 </p>
+
+
 <!-- Usar para dar destaque a algum repositorio
 <a href="https://github.com/MatheusMunizera/starwars-api">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusMunizera&repo=Fun-with-DS-and-Algo&theme=dark" />
