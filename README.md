@@ -30,6 +30,7 @@
 - <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/powerup.gif" width="20vw" /> I Love play video-games and animes (Mainly **Death Note**, if it 's not clear yet)
 
 <br>
+<br>
 
 <p align="center">
   
@@ -58,6 +59,7 @@
 
 
 <img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/L-Cofee%202.gif" alt="Mario Game" width="980" height="200">
+
 
 # Connect with me<img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Handshake.gif" height="32px">
 
