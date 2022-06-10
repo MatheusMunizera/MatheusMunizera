@@ -1,14 +1,14 @@
-# <img alt="Medal" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Medal.gif" width="20px"> Matheus Muniz Dantas <img alt ="L-Kira" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/L-Kira-Banana.gif" width="60px">  
+# <img alt="Medal" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Medal.gif" width="40px" height="40px"> Matheus Muniz Dantas <img alt ="L-Kira" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/L-Kira-Banana.gif" width="60px" height="60px">  
 
 <img align="right" alt="L GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/L-Sad.gif" width="250" height="170" />
 
-### **Hello world!** &nbsp;<img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Earth.gif" width="24px">
+### **Hello world!** &nbsp;<img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Earth.gif" width="25px" height="25px">
 
 <p>
   <em>
-    I am a budding <b>Software Developer</b> <img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Developer.gif" width="30px"> who wants to improve <img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Rocket.gif" width="18px"> the knowledge about Web Developing. 
+    I am a budding <b>Software Developer</b> <img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Developer.gif" width="20px" height="20px"> who wants to improve <img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Rocket.gif" width="20px" height="20px"> the knowledge about Web Developing. 
     <br>
-    I am a 3rd year undergraduate in <b>System of Information at <a href="https://portal.anhembi.br"> Universidade Anhembi Morumbi</b></a> where I did some <b>projects</b>&nbsp;<img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Designer.gif" width="36px"> and I intend to post here.
+    I am a 3rd year undergraduate in <b>System of Information at <a href="https://portal.anhembi.br"> Universidade Anhembi Morumbi</b></a> where I did some <b>projects</b>&nbsp;<img src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/Designer.gif" width="20px" height="20px"> and I intend to post here.
   </em>  
 </p>
 
@@ -16,17 +16,17 @@
 
 <br>
 
-# Extra <img alt ="L-Cute" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/L-Cute-unscreen.gif" width="40px">
+# Extra <img alt ="L-Cute" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/L-Cute-unscreen.gif" width="60px" height="60px">
 
 
 <img align="right" alt="L GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/L-Listen.gif" width="250" height="170" />
 
 
-- <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/wave.gif" width="20vw" /> I'm **Matheus Muniz**, but you can just call me **Muniz**.
+- <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/wave.gif" width="20px" height="20px" /> I'm **Matheus Muniz**, but you can just call me **Muniz**.
 - 🌎 São Paulo, SP - Brazil 🇧🇷
-- <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I'm *currently learning* about **Fullstack Web Developer**
-- <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/headbang.gif" width="20vw" /> *I'm a beginner*, but if I can collaborate on a *Web Project*, **Im In**.  
-- <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/powerup.gif" width="20vw" /> I Love play video-games and animes (Mainly **Death Note**, if it 's not clear yet)
+- <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/gandalf_parrot.gif" width="20px" height="20px" /> I'm *currently learning* about **Fullstack Web Developer**
+- <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/headbang.gif" width="20px" height="20px" /> *I'm a beginner*, but if I can collaborate on a *Web Project*, **Im In**.  
+- <img alt="GIF" src="https://github.com/MatheusMunizera/MatheusMunizera/blob/main/Assets/powerup.gif" width="20px" height="20px" /> I Love play video-games and animes (Mainly **Death Note**, if it 's not clear yet)
 
 <br>
 <br>
