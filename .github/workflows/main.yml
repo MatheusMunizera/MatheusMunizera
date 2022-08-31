@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 Medias
+      - name: 🟡 Medias
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -23,7 +23,7 @@ jobs:
           plugin_anilist_user: Munizera
           plugin_anilist_limit_characters: 22
 
-      - name: 🦑 General
+      - name: 🟢 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
