@@ -6,8 +6,8 @@
   
 ### Today's Moon
 
-[![](https://moon-svg.minung.dev/moon.svg)](https://moon-svg.minung.dev)
-[![](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev/moon.svg)
+[![](https://moon-svg.minung.dev/moon.svg)]()
+[![](https://moon-svg.minung.dev/moon.svg?theme=ray)]()
 
 [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://matheusmuniz.me)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-muniz-dantas/)
