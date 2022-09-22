@@ -9,7 +9,7 @@
 [![](https://moon-svg.minung.dev/moon.svg)](#)
 [![](https://moon-svg.minung.dev/moon.svg?theme=ray)](#)
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://matheusmuniz.me)
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://curriculo.matheusmuniz.dev)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-muniz-dantas/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.munizera@gmail.com)
 
