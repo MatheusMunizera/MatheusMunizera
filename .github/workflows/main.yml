@@ -1,8 +1,20 @@
-name: Metrics
+name: FollowerPlace and Metrics
 on:
   schedule: [{cron: "0 0 * */15 *"}]
   workflow_dispatch:
 jobs:
+  followerplace:
+    runs-on: ubuntu-latest
+    steps: 
+
+      - name: 🪑 FollowerPlace
+        if: ${{ success() || failure() }}
+        uses: MatheusMunizera/FollowerPlace@latest
+        with:
+          user: MatheusMunizera
+          token: ${{ secrets.TOKEN }}
+
+
   metrics:
     runs-on: ubuntu-latest
     steps:
