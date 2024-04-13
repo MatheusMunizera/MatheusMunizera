@@ -6,14 +6,11 @@ jobs:
   followerplace:
     runs-on: ubuntu-latest
     steps: 
-
       - name: 🪑 FollowerPlace
-        if: ${{ success() || failure() }}
-        uses: MatheusMunizera/FollowerPlace@latest
+        uses: MatheusMunizera/FollowerPlace@v1.0.0
         with:
           user: MatheusMunizera
           token: ${{ secrets.TOKEN }}
-
 
   metrics:
     runs-on: ubuntu-latest
